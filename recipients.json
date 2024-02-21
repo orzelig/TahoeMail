@@ -1,0 +1,12 @@
+{
+  "recipients": [
+    {
+      "name": "Mayor Name",
+      "email": "Mayor@city.gov"
+    },
+    {
+      "name": "Council Member Name",
+      "email": "Member@city.gov"
+    }
+  ]
+}
