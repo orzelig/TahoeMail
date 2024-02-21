@@ -1,12 +1,20 @@
 {
   "recipients": [
     {
-      "name": "Mayor Name",
-      "email": "Mayor@city.gov"
+      "name": "Vail Resorts Comments",
+      "email": "comments@vailresorts.com"
     },
     {
-      "name": "Council Member Name",
-      "email": "Member@city.gov"
+      "name": "Vail Resorts info",
+      "email": "Info@vailresorts.com"
+    },
+    {
+      "name": "Marissa from Vail Resorts",
+      "email": "marissa.j.moraga@vailresorts.com"
+    },
+    {
+      "name": "NorthStar email",
+      "email": "northstarcalifornia@vailresorts.com"
     }
   ]
 }
